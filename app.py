@@ -1,3 +1,5 @@
+pip install ibm_watson
+
 import streamlit as st
 import numpy as np
 from ibm_watson import LanguageTranslatorV3
