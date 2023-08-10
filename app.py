@@ -1,4 +1,4 @@
-pip install ibm_watson
+
 
 import streamlit as st
 import numpy as np
