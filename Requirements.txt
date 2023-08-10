@@ -1,3 +1,4 @@
-streamlit
+pip install ibm_watson
+pip install streamlit
 sklearn
-ibm_watson
+
